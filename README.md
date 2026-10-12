@@ -79,19 +79,31 @@ The screenshots show the English interface in dark mode.
 
 Search, filters, sorting and Pokémon cards, with 96 Pokémon per page selected.
 
-![Pokémon catalog in dark mode](docs/screenshots/catalog.png)
+<img
+  src="docs/screenshots/catalog.png"
+  alt="Pokémon catalog in dark mode"
+  width="1000"
+/>
 
 ### Base statistics
 
 Infernape's detail dialog with individual statistics and their total.
 
-![Infernape base statistics](docs/screenshots/base%20statistics.png)
+<img
+  src="docs/screenshots/base%20statistics.png"
+  alt="Infernape base statistics"
+  width="600"
+/>
 
 ### Shiny artwork and evolutions
 
 Torterra's detail dialog with shiny mode enabled and its evolution chain.
 
-![Torterra shiny artwork and evolution chain](docs/screenshots/shiny%20and%20evolutions.png)
+<img
+  src="docs/screenshots/shiny%20and%20evolutions.png"
+  alt="Torterra shiny artwork and evolution chain"
+  width="600"
+/>
 
 ## Requirements
 
